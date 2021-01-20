@@ -1,0 +1,1 @@
+[DEMO](https://mishtal-andrii.github.io/revies_like_slider/.)
